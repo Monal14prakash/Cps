@@ -1,0 +1,65 @@
+1) ADAFRUIT_GFX , ADAFRUIT_SSD1306 from the library manager itself
+------------------------------------------------------------------
+2)ADAFRUIT_GFX , ADAFRUIT_SSD1306, DHT sensor library from the library manager itself
+------------------------------------------------------------------
+3) FOR VIRTUAL ENVIRONMENT-
+python3 -m venv gayhod
+source gayhod/bin/activate
+(worst case - if venv isnt installed)
+sudo apt install python3-venv
+-------------
+program code
+-------------
+sudo apt-get update
+pip3 install adafruit-circuitpython-dht
+sudo apt-get install libgpiod2
+pip3 install matplotlib
+------------------------------------------------------------------
+4)FOR VIRTUAL ENVIRONMENT-
+python3 -m venv gayhod
+source gayhod/bin/activate
+(worst case - if venv isnt installed)
+sudo apt install python3-venv
+-------------
+program code
+-------------
+sudo apt-get update
+pip3 install adafruit-circuitpython-dht
+sudo apt-get install libgpiod2
+-------------------------------------------------------------------
+5)FOR VIRTUAL ENVIRONMENT-
+python3 -m venv gayhod
+source gayhod/bin/activate
+(worst case - if venv isnt installed)
+sudo apt install python3-venv
+-------------
+program code
+-------------
+sudo apt-get install python3-gpiozero
+sudo apt-get install python3-tk
+-------------------------------------------------------------------
+6)FOR VIRTUAL ENVIRONMENT-
+python3 -m venv gayhod
+source gayhod/bin/activate
+(worst case - if venv isnt installed)
+sudo apt install python3-venv
+-------------
+program code
+-------------
+pip3 install pushbullet.py
+sudo apt-get install python3-opencv (or)
+pip3 install opencv-python
+-------------------------------------------------------------------
+7)FOR VIRTUAL ENVIRONMENT-
+python3 -m venv gayhod
+source gayhod/bin/activate
+(worst case - if venv isnt installed)
+sudo apt install python3-venv
+-------------
+program code
+-------------
+sudo apt-get install python3-opencv (or)
+pip3 install opencv-python
+----------------------------------------------------------------------
+8) nothing required 
+---------------------------------------------------------------
